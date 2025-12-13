@@ -6,5 +6,5 @@ export interface ExchangeRateResponse {
   rates: { [key: string]: number };
 }
 
-// Las 10 monedas principales requeridas 
-export const CURRENCIES = ["USD", "EUR", "GBP", "JPY", "AUD", "CAD", "CHF", "CNY", "SEK", "NZD"];
+// Monedas principales requeridas 
+export const CURRENCIES = ["USD", "EUR", "GBP", "JPY", "AUD", "CAD", "CHF", "CNY", "SEK", "NZD", "MXN", "BRL"];
