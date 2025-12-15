@@ -1,4 +1,4 @@
-# Ria Intern Project - [PROJECT-RIA-TRANSFER]
+# Ria Intern Project - Claudio Gallegos Belmar
 
 ## Project Overview
 This is my submission for the Ria Software Engineer Intern challenge. It is a **Currency Exchange Dashboard** built with **Next.js 14 (App Router)** and **TypeScript**.
